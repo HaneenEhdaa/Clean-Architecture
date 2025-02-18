@@ -11,3 +11,6 @@ This project follows Clean Architecture principles in Flutter to separate concer
 - Dio for making API calls
 - Cubit (Flutter Bloc) for state management
 - Repository Pattern for handling data sourcesFlutter Clean Architecture with Dependency Injection (GetIt)
+
+## Demo
+https://github.com/user-attachments/assets/d13e8ec0-bd1f-4bd7-a783-283af9b1a03a
