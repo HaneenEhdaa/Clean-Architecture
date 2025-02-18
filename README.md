@@ -1,16 +1,13 @@
-# architecture_task
+# Flutter Clean Architecture with Dependency Injection (GetIt)
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This project follows Clean Architecture principles in Flutter to separate concerns and improve maintainability. It uses GetIt for Dependency Injection (DI), allowing better scalability and testability.The app demonstrates fetching employee data from a remote API using Dio, following a structured approach with Repositories, Use Cases, and Cubits for state management.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clean Architecture Implementation (Data, Domain, Presentation layers)
+- Dependency Injection (GetIt) for managing dependencies
+- Dio for making API calls
+- Cubit (Flutter Bloc) for state management
+- Repository Pattern for handling data sourcesFlutter Clean Architecture with Dependency Injection (GetIt)
